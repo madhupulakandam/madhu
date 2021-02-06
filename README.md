@@ -25,4 +25,4 @@ sno | name | college
 1 | chandu | sacet
 2 | madhu | sacet
 :smile:
-:cring:
+:heart_eyes:
