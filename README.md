@@ -24,5 +24,10 @@ sno | name | college
 ----|------|------
 1 | chandu | sacet
 2 | madhu | sacet
+3 | kavya | sacet
 :smile:
 :heart_eyes:
+what the use of github
+- [x] to store data on cloud
+- [] to delete data
+- [] none
