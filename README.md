@@ -9,16 +9,16 @@ _ubhgvyvgbyuhujigbvyvgynjuinujuy**7jioki87kijkjjjkfu**ehjjnbkjhjhfdghgeuhbnxbznj
 gahsghdyhbdhsvgchbhsudtyuah_
 <img src="https://www.happybirthdaymsg.com/wp-content/uploads/2019/09/good-morning-images-with-flowers-16.jpg">
 ## list
--one
-  -madhu
-  -suji
--two
--three
+- one
+  - madhu
+  - suji
+- two
+- three
 -----
 ## framework
-1.block
-2.flasks
-3.tables
+1 . block
+2 . flasks
+3 . tables
 ------
 sno | name | college
 ----|------|------
