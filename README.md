@@ -31,3 +31,7 @@ what the use of github
 - [x] to store data on cloud
 - [] to delete data
 - [] none
+def add(x,y):
+print("the addition of x and y is")
+add(3,3)
+------
