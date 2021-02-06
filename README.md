@@ -35,7 +35,7 @@ what the use of github
 def add(x,y):
   print("the addition of x and y is")
 add(3,3)
------
+
 ````````c
 #include<stdio.h>
 #include<conio.h>
